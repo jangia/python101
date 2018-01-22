@@ -1,0 +1,9 @@
+Completed tasks:
+- Pridi na SmartNinjo
+
+Incomplete tasks:
+- task1
+- task2
+- task3
+- task4
+- task5
